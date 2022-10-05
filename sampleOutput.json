@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "https://www.theguardian.com/profile/joannawalters",
+      "title": "Republican Herschel Walker pledges to sue over report he paid for abortion – live - The Guardian US",
+      "description": "Anti-abortion Senate candidate in Georgia reportedly paid for the procedure for a former girlfriend in 2009",
+      "url": "https://www.theguardian.com/us-news/live/2022/oct/04/herschel-walker-abortion-senate-biden-roe-wade-trump-latest-updates",
+      "urlToImage": "https://i.guim.co.uk/img/media/4b7eeb3ae3a357793c89814f30d8e7211bd5c2a1/0_68_5916_3550/master/5916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e4b8f0145b40450e82adedc0accc714e",
+      "publishedAt": "2022-10-04T14:26:38Z",
+      "content": "If the battle for control of the US Senate overall is on a knife edge in these midterm elections, certain states races are on a razors edge.\r\nThe congressional upper chamber has been split 50-50 sinc… [+5953 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Tanaya Macheel, Alex Harring",
+      "title": "Stocks rise as investors build on Monday’s rally, Dow jumps 700 points - CNBC",
+      "description": "Stocks surged to start the day Tuesday as Wall Street aimed to build on a sharp rally seen in the previous session.",
+      "url": "https://www.cnbc.com/2022/10/03/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107125171-1664297547498-nys.jpg?v=1664890983&w=1920&h=1080",
+      "publishedAt": "2022-10-04T14:22:00Z",
+      "content": "Stocks surged Tuesday as Wall Street built on a sharp rally seen in the previous session and bond yields continued to fall.\r\nThe Dow Jones Industrial Average rose 731 points, or 2.5%. The S&amp;P 500… [+1742 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mary Ilyushina, Emily Rauhala, Isabelle Khurshudyan",
+      "title": "Ukraine hammers Russian forces into retreat on east and south fronts - The Washington Post",
+      "description": "Even as Russia's Federation Council ratified the illegal annexation of four Ukrainian regions, Moscow's military setbacks continued.",
+      "url": "https://www.washingtonpost.com/world/2022/10/04/russia-retreat-kherson-lyman-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBCZVW3Z4E4KR3JYWDY7ZNKC2M.JPG&w=1440",
+      "publishedAt": "2022-10-04T14:19:59Z",
+      "content": "Ukrainian troops on Tuesday accelerated their military advances on two fronts, pushing Russian forces into retreat in the Donetsk and Luhansk regions to the east and Kherson region to the south.\r\nThe… [+13874 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Austen Hufford",
+      "title": "U.S. Job Openings Fell in August - WSJ - The Wall Street Journal",
+      "description": "The number of open jobs in the U.S. economy dropped by 10% and layoffs rose slightly, signs that the labor market is starting to cool.",
+      "url": "https://www.wsj.com/articles/job-openings-hiring-economy-august-2022-11664833689",
+      "urlToImage": "https://images.wsj.net/im-636192/social",
+      "publishedAt": "2022-10-04T14:18:00Z",
+      "content": "The number of open jobs in the U.S. economy dropped by 10% and layoffs rose slightly, signs that the labor market is starting to cool. \r\nThe Labor Department said Tuesday that job openings fell to a … [+277 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Yoonjung Seo, Emiko Jozuka, Junko Ogura, Brad Lendon, Simone McCarthy",
+      "title": "Japan issues rare alert as North Korea fires missile without warning over main island - CNN",
+      "description": "Japan urged residents to take shelter early Tuesday morning after North Korea fired a ballistic missile without warning over the country for the first time in five years, in a major and potentially dangerous escalation of recent weapons tests by the Kim Jong …",
+      "url": "https://www.cnn.com/2022/10/03/asia/north-korea-missile-suspected-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220924184829-north-korea-ballistic-missile-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-04T13:45:00Z",
+      "content": "Japan urged residents to take shelter early Tuesday morning after North Korea fired a ballistic missile without warning over the country for the first time in five years, in a major and potentially d… [+6103 chars]"
+    }
+  ]
+}
