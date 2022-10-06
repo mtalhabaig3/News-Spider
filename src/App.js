@@ -3,6 +3,7 @@ import "./App.css";
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
+import LoadingBar from "react-top-loading-bar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 export default class App extends Component {
@@ -11,6 +12,7 @@ export default class App extends Component {
       <>
         <Router>
           <Navbar />
+          <LoadingBar color="#f11946" progress={40} height={3} />{" "}
           <Routes>
             <Route
               path="/business"
